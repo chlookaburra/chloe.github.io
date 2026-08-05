@@ -1,22 +1,22 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "Richard Feynman"
-title: "Professor of Physics"
-institution: "California Institute of Technology"
-email: richard@university.edu
+name: "Chloe Choi"
+title: "PhD Candidate"
+institution: "Stanford University"
+email: chloe1@stanford.edu
 photo: headshot.jpg  # place your photo in images/
 
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
-  orcid: ""
+  google_scholar: "https://scholar.google.com/citations?user=EZ6XJd8AAAAJ&hl=en"
+  github: "https://github.com/chlookaburra/"
+  researchgate: ""
+  orcid: "https://orcid.org/0009-0000-7540-7911"
   twitter: ""
-  linkedin: ""
+  linkedin: "https://www.linkedin.com/in/chloe-choi-b96131410/"
   cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
 
 # ============================================================
@@ -24,7 +24,7 @@ links:
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+description: "Chloe H. Choi"
 baseurl: ""
 url: ""
 
@@ -39,11 +39,7 @@ nav_pages:
   - name: about
   - name: publications
   - name: talks
-  - name: research
-  - name: software
-  - name: team
   - name: teaching
-  - name: blogs
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
