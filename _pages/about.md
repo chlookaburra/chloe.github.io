@@ -85,15 +85,6 @@ permalink: /about/
 
 </div>
 
-<div class="section-card">
-<h3>Professional Service</h3>
-**Journal Peer Review**
-- Annals of Biomedical Engineering (ABME)
-- Cardiovascular Engineering and Technology (CVET)
-- Computational Methods in Applied Mechanics and Engineering (CMAME)
-
-</div>
-
 {% if site.data.grants %}
 <div class="section-card">
 <h3>Grants</h3>
