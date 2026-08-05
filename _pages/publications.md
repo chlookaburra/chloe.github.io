@@ -18,7 +18,4 @@ permalink: /publications/
 
 {% bibliography --query @article %}
 
-<h3>Refereed Conference Proceedings</h3>
-
-{% bibliography --query @inproceedings %}
 </div>

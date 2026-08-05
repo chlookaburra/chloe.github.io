@@ -8,11 +8,11 @@ permalink: /talks/
 ## Talks
 
 <div class="section-card" id="pubList">
-<h3>Invited Talks</h3>
+<h3>Invited Lectures and Workshops</h3>
 
 {% bibliography --query @incollection[keywords ^= invited] %}
 
-<h3>Regular Talks</h3>
+<h3>Conferences</h3>
 
 {% bibliography --query @incollection[keywords != invited] %}
 </div>

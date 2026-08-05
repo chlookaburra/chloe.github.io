@@ -31,16 +31,39 @@ permalink: /about/
 </div>
 </div>
 
-{% if site.data.grants %}
 <div class="section-card">
-<h3>Grants</h3>
-<ul>
-{% for grant in site.data.grants %}
-<li>{{ grant.name }}</li>
-{% endfor %}
-</ul>
+
+<h3>Research Appointments</h3>
+
+**Graduate researcher, Stanford University** (2023–present)
+
+- Adviser: Alison Marsden, Co-adviser: Gianluca Iaccarino
+- Developing multi-fidelity parameter estimation methods for interventional planning of peripheral pulmonary artery stenosis (PPAS).
+
+**Undergraduate researcher (senior thesis), California Institute of Technology** (2022-23)
+
+- Adviser: Tim Colonius
+- Developed a two-dimensional data-driven reduced-order model of burst-wave lithotripsy to determine optimal frequencies to break kidney stones
+- Thesis: Towards a Reduced-Order Model of Burst-Wave Lithotripsy
+
+**Undergraduate summer research fellow, Massachusetts Institute of Technology** (Summer 2022)
+- Adviser: Themis Sapsis
+- Combined Bayesian optimization, extreme acquisition functions, and an ensemble of deep neural operators to predict rogue waves in high dimensions and jet acoustic bursts. (Abstract)
+
+**Undergraduate summer research fellow, California Institute of Technology** (Summer 2021)
+- Adviser: Tim Colonius
+- Analyzed optimized eddy-viscosity models for coherent structures in the first and second azimuthal modes of turbulent jets and examined the physical significance of the approach to mechanisms present in the jet. (Abstract)
+
+**Undergraduate summer research fellow, California Institute of Technology** (Summer 2020)
+- Adviser: Julia Greer
+- Investigated the fibrous properties of the A. aurita jellyfish mesoglea to characterize the viscoelastic response under flat punch indentation and to model radial symmetrization. (Abstract)
+
+**High school intern, Massachusetts Institute of Technology** (Summer 2018)
+- Adviser: Kerri Cahoy
+- Modified a receiver assembly for MIT's Portable Telescope for Lasercom (PorTeL) to improve tracking performance. Successful IR camera photo of the International Space Station was presented by a graduate student at the 2018 SmallSat Conference.
+- Note: As of 2022, my modified version of the receiver assembly is still working and set up in MIT Wallace Astrophysical Observatory
+
 </div>
-{% endif %}
 
 {% if site.data.awards %}
 <div class="section-card">
@@ -48,6 +71,35 @@ permalink: /about/
 <ul>
 {% for award in site.data.awards %}
 <li>{{ award.name | replace: "-","&#8211;" }}</li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
+
+<div class="section-card">
+<h3>Professional Memberships</h3>
+- American Heart Association (AHA) (2025-)
+- Stanford Cardiovascular Institute (CVI) (2025-)
+- Society for Industrial and Applied Mathematics (SIAM) (2024-)
+- American Physical Society (APS) (2021-)
+
+</div>
+
+<div class="section-card">
+<h3>Professional Service</h3>
+**Journal Peer Review**
+- Annals of Biomedical Engineering (ABME)
+- Cardiovascular Engineering and Technology (CVET)
+- Computational Methods in Applied Mechanics and Engineering (CMAME)
+
+</div>
+
+{% if site.data.grants %}
+<div class="section-card">
+<h3>Grants</h3>
+<ul>
+{% for grant in site.data.grants %}
+<li>{{ grant.name }}</li>
 {% endfor %}
 </ul>
 </div>
