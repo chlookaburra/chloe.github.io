@@ -1,6 +1,8 @@
+# Personal website
+
 ## Acknowledgment
 
-This template is taken from  [academic-website-template][https://github.com/sbryngelson/academic-website-template] .
+This template is taken from https://github.com/sbryngelson/academic-website-template.
 
 ## License
 
