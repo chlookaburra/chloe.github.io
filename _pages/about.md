@@ -80,7 +80,7 @@ permalink: /about/
 <h3>Professional Memberships</h3>
 - American Heart Association (AHA) (2025-)
 - Stanford Cardiovascular Institute (CVI) (2025-)
-- Society for Industrial and Applied Mathematics (SIAM) (2024-)
+- Society for Industrial and Applied Mathematics (SIAM) (2025-)
 - American Physical Society (APS) (2021-)
 
 </div>

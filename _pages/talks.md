@@ -11,7 +11,7 @@ permalink: /talks/
 
 <h3>Invited Lectures and Workshops</h3>
 <ul class="talk-list">
-    <li><strong>C. Choi</strong> "Boundary condition tuning with svSuperEstimator." <em>Cardiovascular Biomechanics Computation Laboratory,</em>, Stanford University, Jan 2025.</li>
+    <li><strong>C. Choi</strong>. "Boundary condition tuning with svSuperEstimator." <em>Cardiovascular Biomechanics Computation Laboratory</em>, Stanford University, Jan 2025.</li>
 </ul>
 
 <h3>Conferences</h3>
