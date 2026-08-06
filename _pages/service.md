@@ -74,7 +74,7 @@ permalink: /service/
 - Cardiovascular Engineering and Technology (CVET)
 - Computational Methods in Applied Mechanics and Engineering (CMAME)
 
-<h3>Judge/panel</h3>
+**Judge/panel**
 - Poster judge (by invitation), Stanford Cardiovascular Research Symposium (2026)
 
 </div>

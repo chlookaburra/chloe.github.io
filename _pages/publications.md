@@ -15,4 +15,8 @@ permalink: /publications/
 
 {% bibliography --query @article %}
 
+<h3>Book Chapters</h3>
+
+{% bibliography --query @incollection %}
+
 </div>

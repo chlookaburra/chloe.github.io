@@ -37,29 +37,29 @@ permalink: /about/
 
 **Graduate researcher, Stanford University** (2023–present)
 
-- Adviser: Alison Marsden, Co-adviser: Gianluca Iaccarino
+- Adviser: [Alison Marsden](https://profiles.stanford.edu/alison-marsden), Co-adviser: [Gianluca Iaccarino](https://profiles.stanford.edu/gianluca-iaccarino)
 - Developing multi-fidelity parameter estimation methods for interventional planning of peripheral pulmonary artery stenosis (PPAS).
 
 **Undergraduate researcher (senior thesis), California Institute of Technology** (2022-23)
 
-- Adviser: Tim Colonius
+- Adviser: [Tim Colonius](https://www.eas.caltech.edu/people/colonius)
 - Developed a two-dimensional data-driven reduced-order model of burst-wave lithotripsy to determine optimal frequencies to break kidney stones
 - Thesis: Towards a Reduced-Order Model of Burst-Wave Lithotripsy
 
 **Undergraduate summer research fellow, Massachusetts Institute of Technology** (Summer 2022)
-- Adviser: Themis Sapsis
-- Combined Bayesian optimization, extreme acquisition functions, and an ensemble of deep neural operators to predict rogue waves in high dimensions and jet acoustic bursts. (Abstract)
+- Adviser: [Themis Sapsis](https://meche.mit.edu/people/faculty/sapsis@MIT.EDU)
+- Combined Bayesian optimization, extreme acquisition functions, and an ensemble of deep neural operators to predict rogue waves in high dimensions and jet acoustic bursts. ([Abstract](https://sfp.caltech.edu/documents/22774/Compiled_Abstract_Book_22_ioVhgnc.pdf))
 
 **Undergraduate summer research fellow, California Institute of Technology** (Summer 2021)
-- Adviser: Tim Colonius
-- Analyzed optimized eddy-viscosity models for coherent structures in the first and second azimuthal modes of turbulent jets and examined the physical significance of the approach to mechanisms present in the jet. (Abstract)
+- Adviser: [Tim Colonius](https://www.eas.caltech.edu/people/colonius)
+- Analyzed optimized eddy-viscosity models for coherent structures in the first and second azimuthal modes of turbulent jets and examined the physical significance of the approach to mechanisms present in the jet. ([Abstract](https://sfp.caltech.edu/documents/19869/Compiled_Summer_Abstracts.pdf))
 
 **Undergraduate summer research fellow, California Institute of Technology** (Summer 2020)
-- Adviser: Julia Greer
-- Investigated the fibrous properties of the A. aurita jellyfish mesoglea to characterize the viscoelastic response under flat punch indentation and to model radial symmetrization. (Abstract)
+- Adviser: [Julia Greer](https://www.eas.caltech.edu/people/jrgreer)
+- Investigated the fibrous properties of the A. aurita jellyfish mesoglea to characterize the viscoelastic response under flat punch indentation and to model radial symmetrization. ([Abstract](https://sfp.caltech.edu/documents/17703/Final_Abstract_Book_for_Posting_937lr6m.pdf))
 
 **High school intern, Massachusetts Institute of Technology** (Summer 2018)
-- Adviser: Kerri Cahoy
+- Adviser: [Kerri Cahoy](https://aeroastro.mit.edu/people/kerri-cahoy/)
 - Modified a receiver assembly for MIT's Portable Telescope for Lasercom (PorTeL) to improve tracking performance. Successful IR camera photo of the International Space Station was presented by a graduate student at the 2018 SmallSat Conference.
 - Note: As of 2022, my modified version of the receiver assembly is still working and set up in MIT Wallace Astrophysical Observatory
 

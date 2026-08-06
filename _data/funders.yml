@@ -3,9 +3,9 @@
 # Recommended logo size: max-height 80px
 
 # EXAMPLE -- replace or delete
-- image: AHA.png
+- image: aha.jpg
   url: https://www.heart.org/
-- image: stanford.png
+- image: stanford.svg
   url: https://vpge.stanford.edu/fellowships-funding/sgf
-- image: cvi.png
+- image: stanford_cvi.jpg
   url: https://med.stanford.edu/cvi.html
