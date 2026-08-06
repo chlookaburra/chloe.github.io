@@ -5,6 +5,8 @@ sitemap: false
 permalink: /pulmonary/
 ---
 
+## Interactive tool for pulmonary models
+
 <div class="section-card" id="pubList">
 
 <h3>Instructions</h3>
