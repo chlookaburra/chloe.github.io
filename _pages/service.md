@@ -7,6 +7,18 @@ permalink: /service/
 
 <div class="section-card">
 
+<div class="section-card">
+<h3>Professional Service</h3>
+**Journal Peer Review**
+- Annals of Biomedical Engineering (ABME)
+- Cardiovascular Engineering and Technology (CVET)
+- Computational Methods in Applied Mechanics and Engineering (CMAME)
+
+**Judge/panel**
+- Poster judge (by invitation), Stanford Cardiovascular Research Symposium (2026)
+
+</div>
+
 <h3>Teaching and Mentoring Experience</h3>
 
 **Teaching Assistant, Computational Modeling in the Cardiovascular System (ME285), Stanford** (Fall 2026)
@@ -64,17 +76,5 @@ permalink: /service/
 **Academics and Research Committee (ARC) Representative, Caltech** (Fall 2019-Spring 2021)
 
 - Academic branch of student government; selected via application and interview. Organized student-faculty lunches, voiced course concerns to improve academic life, and started ARC's Facebook page. Led discussions with faculty on improving the mechanical engineering curriculum based on student survey results at the 2021 Student-Faculty Conference.
-
-</div>
-
-<div class="section-card">
-<h3>Professional Service</h3>
-**Journal Peer Review**
-- Annals of Biomedical Engineering (ABME)
-- Cardiovascular Engineering and Technology (CVET)
-- Computational Methods in Applied Mechanics and Engineering (CMAME)
-
-**Judge/panel**
-- Poster judge (by invitation), Stanford Cardiovascular Research Symposium (2026)
 
 </div>
