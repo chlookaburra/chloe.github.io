@@ -15,8 +15,16 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Parameter Estimation</a>
 </div> -->
 
-### About me
+### About
 
-I am a 3rd year PhD candidate in mechanical engineering at Stanford University studying multi-fidelity boundary condition tuning under uncertainty via computational and data-driven methods. I am advised by [Dr. Alison Marsden](https://profiles.stanford.edu/alison-marsden) (Stanford). 
+I am a third year PhD candidate at Stanford University, Department of Mechanical Engineering, advised by [Dr. Alison Marsden](https://profiles.stanford.edu/alison-marsden) (Stanford). My research integrates **computational fluid dynamics** with **scientific machine learning** and **multi-fidelity uncertainty quantification** to develop clinically deployable **cardiovascular digital twins**. 
 
-As an AHA predoctoral fellow, I am collaborating with [Dr. Daniele Schiavazzi](https://acms.nd.edu/people/daniele-schiavazzi/) (University of Notre Dame) and [Dr. Jeffrey Feinstein](https://med.stanford.edu/profiles/jeffrey-feinstein) (Stanford) to develop an automated, uncertainty-aware neural network framework that will provide real-time feedback to clinicians to plan difficult stenting procedures for pediatric patients with peripheral pulmonary arterial stenosis (PPAS).
+Supported by the **AHA predoctoral fellowship**, I am collaborating with [Dr. Daniele Schiavazzi](https://acms.nd.edu/people/daniele-schiavazzi/) (University of Notre Dame) and [Dr. Jeffrey Feinstein](https://med.stanford.edu/profiles/jeffrey-feinstein) (Stanford) to develop an automated, uncertainty-aware neural network framework that enable efficient and reliable parameter estimation for clinical workflows. These tools will ultimately provide real-time feedback to clinicians to plan difficult treatment procedures for pediatric patients with peripheral pulmonary arterial stenosis (PPAS).
+
+### Research interests
+
+- **Computational cardiovascular modeling** -- FEA/CFD, multiscale patient-specific hemodynamics
+- **Scientific machine learning** -- point cloud encoders, multi-fidelity physics-informed surrogates
+- **Uncertainty quantification and inverse problems** -- Bayesian inference, data assimilation, amortized inference
+- **Computational biomechanics and scientific computing** -- cardiovascular mechanics, high-performance computing, numerical methods
+- **Open-source scientific software** -- [SimVascular](https://simvascular.github.io/), [svMultiPhysics](https://github.com/simvascular/svmultiphysics), [svZeroDSolver](https://github.com/simvascular/svzerodsolver), [Vascular Model Repository](https://www.vascularmodel.com/)
