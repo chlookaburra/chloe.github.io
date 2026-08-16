@@ -6,8 +6,6 @@ permalink: /service/
 ---
 
 <div class="section-card">
-
-<div class="section-card">
 <h3>Professional Service</h3>
 **Journal Peer Review**
 - Annals of Biomedical Engineering (ABME)
@@ -19,9 +17,11 @@ permalink: /service/
 
 </div>
 
+<div class="section-card">
+
 <h3>Teaching and Mentoring Experience</h3>
 
-**Teaching Assistant, Computational Modeling in the Cardiovascular System (ME285), Stanford** (Fall 2026)
+**Teaching Assistant, Computational Modeling in the Cardiovascular System (ME285), Stanford** (Fall 2026-)
 
 - (Upcoming) Hosted weekly office hours and created/graded homework and solutions. 
 - Topics covered: incompressible computational fluid dynamics, lumped parameter models, patient specific modeling with finite elements, uncertainty quantification.
