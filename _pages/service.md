@@ -21,7 +21,7 @@ permalink: /service/
 
 <h3>Teaching and Mentoring Experience</h3>
 
-**Teaching Assistant, Computational Modeling in the Cardiovascular System (ME285), Stanford** (Fall 2026-)
+**Teaching Assistant, Computational Modeling in the Cardiovascular System (ME285), Stanford** (Fall 2026)
 
 - (Upcoming) Hosted weekly office hours and created/graded homework and solutions. 
 - Topics covered: incompressible computational fluid dynamics, lumped parameter models, patient specific modeling with finite elements, uncertainty quantification.
@@ -51,9 +51,9 @@ permalink: /service/
 
 <div class="section-card">
 
-<h3>Leadership and Volunteering Activities</h3>
+<h3>Leadership and Outreach</h3>
 
-**Committee on Research, University Committee Representative, Stanford** (Fall 2026)
+**Committee on Research, University Committee Representative, Stanford** (Fall 2026-)
 
 - (Upcoming) Advised on institutional research policy, sponsored funding procedures, and faculty research governance, and attended committee meetings. Selected via application and interview.
 
